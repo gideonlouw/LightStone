@@ -1,8 +1,9 @@
 ﻿using System.Collections.Generic;
 using Xunit;
 using Moq;
+using WordReversalApp;
 
-namespace WordReversalApp.UnitTests
+namespace WordReversalApp_UnitTests
 {
     public class WordReverserTests
     {

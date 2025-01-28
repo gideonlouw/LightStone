@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\classes\\consoleinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\classes\\consoleinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\classes\\consoleoutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\classes\\consoleoutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\classes\\wordreversalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\classes\\wordreversalprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\classes\\wordreverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\classes\\wordreverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\interfaces\\iinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\interfaces\\iinputreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\interfaces\\ioutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\interfaces\\ioutputwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\interfaces\\iwordreverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\interfaces\\iwordreverser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\unittests\\wordreversalprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\unittests\\wordreversalprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\unittests\\wordreversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\unittests\\wordreversertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|c:\\users\\gideo\\source\\repos\\wordreversalapp\\wordreversalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D8CAD0D-943F-48F0-9528-831DAC7D316F}|WordReversalApp\\WordReversalApp.csproj|solutionrelative:wordreversalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,136 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IWordReverser.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IWordReverser.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Interfaces\\IWordReverser.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IWordReverser.cs",
-              "RelativeToolTip": "WordReversalApp\\Interfaces\\IWordReverser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:50:49.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IInputReader.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IInputReader.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Interfaces\\IInputReader.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IInputReader.cs",
-              "RelativeToolTip": "WordReversalApp\\Interfaces\\IInputReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:49:47.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOutputWriter.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IOutputWriter.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Interfaces\\IOutputWriter.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Interfaces\\IOutputWriter.cs",
-              "RelativeToolTip": "WordReversalApp\\Interfaces\\IOutputWriter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:48:28.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WordReverser.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\WordReverser.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Classes\\WordReverser.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\WordReverser.cs",
-              "RelativeToolTip": "WordReversalApp\\Classes\\WordReverser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:50:24.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WordReversalProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\WordReversalProcessor.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Classes\\WordReversalProcessor.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\WordReversalProcessor.cs",
-              "RelativeToolTip": "WordReversalApp\\Classes\\WordReversalProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:45:02.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleOutputWriter.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\ConsoleOutputWriter.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Classes\\ConsoleOutputWriter.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\ConsoleOutputWriter.cs",
-              "RelativeToolTip": "WordReversalApp\\Classes\\ConsoleOutputWriter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:47:34.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConsoleInputReader.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\ConsoleInputReader.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Classes\\ConsoleInputReader.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Classes\\ConsoleInputReader.cs",
-              "RelativeToolTip": "WordReversalApp\\Classes\\ConsoleInputReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:49:07.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WordReversalProcessorTests.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\UnitTests\\WordReversalProcessorTests.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\UnitTests\\WordReversalProcessorTests.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\UnitTests\\WordReversalProcessorTests.cs",
-              "RelativeToolTip": "WordReversalApp\\UnitTests\\WordReversalProcessorTests.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:01:29.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WordReverserTests.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\UnitTests\\WordReverserTests.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\UnitTests\\WordReverserTests.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\UnitTests\\WordReverserTests.cs",
-              "RelativeToolTip": "WordReversalApp\\UnitTests\\WordReverserTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:58:46.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Program.cs",
-              "RelativeDocumentMoniker": "WordReversalApp\\Program.cs",
-              "ToolTip": "C:\\Users\\gideo\\source\\repos\\WordReversalApp\\WordReversalApp\\Program.cs",
-              "RelativeToolTip": "WordReversalApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:43:20.612Z",
-              "EditorCaption": ""
             }
           ]
         }
